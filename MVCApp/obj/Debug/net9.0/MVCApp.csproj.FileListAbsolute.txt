@@ -94,3 +94,4 @@ C:\Users\asus\OneDrive\Documents\casepoint3\MVCApp\obj\Debug\net9.0\refint\MVCAp
 C:\Users\asus\OneDrive\Documents\casepoint3\MVCApp\obj\Debug\net9.0\MVCApp.pdb
 C:\Users\asus\OneDrive\Documents\casepoint3\MVCApp\obj\Debug\net9.0\MVCApp.genruntimeconfig.cache
 C:\Users\asus\OneDrive\Documents\casepoint3\MVCApp\obj\Debug\net9.0\ref\MVCApp.dll
+C:\Users\asus\OneDrive\Documents\casepoint3\MVCApp\obj\Debug\net9.0\MVCApp.sourcelink.json

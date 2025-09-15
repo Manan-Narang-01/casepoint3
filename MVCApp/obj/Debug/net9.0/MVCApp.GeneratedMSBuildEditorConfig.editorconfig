@@ -28,12 +28,52 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/asus/OneDrive/Documents/casepoint3/MVCApp/Views/Home/Test.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUZXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/asus/OneDrive/Documents/casepoint3/MVCApp/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/asus/OneDrive/Documents/casepoint3/MVCApp/Views/Shared/TransLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFRyYW5zTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/asus/OneDrive/Documents/casepoint3/MVCApp/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asus/OneDrive/Documents/casepoint3/MVCApp/Views/Test/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asus/OneDrive/Documents/casepoint3/MVCApp/Views/Trans/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhbnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asus/OneDrive/Documents/casepoint3/MVCApp/Views/Trans/Getsession.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhbnNcR2V0c2Vzc2lvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asus/OneDrive/Documents/casepoint3/MVCApp/Views/Trans/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhbnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asus/OneDrive/Documents/casepoint3/MVCApp/Views/Trans/Setsession.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhbnNcU2V0c2Vzc2lvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asus/OneDrive/Documents/casepoint3/MVCApp/Views/Trans/Tempdata2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhbnNcVGVtcGRhdGEyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asus/OneDrive/Documents/casepoint3/MVCApp/Views/Trans/Viewbag.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhbnNcVmlld2JhZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asus/OneDrive/Documents/casepoint3/MVCApp/Views/Trans/Viewdata.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhbnNcVmlld2RhdGEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/asus/OneDrive/Documents/casepoint3/MVCApp/Views/_ViewImports.cshtml]
