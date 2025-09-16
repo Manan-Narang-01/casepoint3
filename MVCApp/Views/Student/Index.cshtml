@@ -1,0 +1,40 @@
+@model List<MVCApp.Models.Student>
+@{
+    ViewData["Title"]="Index";
+    Layout="~/Views/Shared/StudentLayout.cshtml";
+}
+
+<h2>Students</h2>
+
+<p>
+<a asp-action="Create" class="btn btn-primary">Add new Student</a>
+</p>
+<table class="table table-bordered">
+<thead>
+<tr>
+<th>ID</th>
+<th>Name</th>
+<th>Date Of Birth</th>
+<th>Stream</th>
+<th>Action</th>
+</tr>
+</thead>
+<tbody>
+<tbody>
+@foreach(var student in Model)
+{
+    <tr>
+        <td>@student.c_studid</td>
+        <td>@student.c_studname</td>
+        <td>@student.c_dob?.ToString("yyyy-MM-dd")</td> 
+        <td>@student.c_stream</td>
+        <td>
+            <a asp-action="Edit" asp-route-id="@student.c_studid" class="btn btn-warning">Edit</a>
+            <a asp-action="Delete" asp-route-id="@student.c_studid" class="btn btn-danger">Delete</a>
+        </td>
+    </tr>
+}
+</tbody>
+
+</tbody>
+</table>

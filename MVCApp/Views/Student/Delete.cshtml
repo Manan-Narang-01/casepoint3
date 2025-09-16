@@ -1,0 +1,17 @@
+@model MVCApp.Models.Student
+@{
+    ViewData["Title"]="Delete";
+    Layout="~/Views/Shared/StudentLayout.cshtml";
+}
+<div>
+    <h2>Delete Student</h2>
+    <h3>Are you sure you want to delete this student? </h3>
+
+
+    <form asp-action="Delete" method="post">
+    <input type="hidden" asp-for="c_studid" />
+    <button type="submit" class="btn btn-danger">Delete</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+
+    </form>
+</div>

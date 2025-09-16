@@ -57,7 +57,7 @@ namespace MyApp.Namespace
 
         public ActionResult partialRTA()
         {
-            return PartialView("Viewdata");
+            return PartialView("part");
         }
 
         public ActionResult JsonResult()

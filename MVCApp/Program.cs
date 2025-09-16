@@ -1,7 +1,17 @@
+using MVCApp.Services;
+using Npgsql;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+builder.Services.AddSingleton<StudentService>();
+builder.Services.AddSingleton<NpgsqlConnection>((conn) =>
+{
+    var connection = conn.GetRequiredService<IConfiguration>().GetConnectionString("pgconn");
+    return new NpgsqlConnection(connection);
+});
 builder.Services.AddControllersWithViews();
+
 builder.Services.AddSession(options =>
 {
 options.IdleTimeout = TimeSpan.FromMinutes(30); // Set session timeout
