@@ -98,3 +98,7 @@ C:\Users\asus\OneDrive\Documents\casepoint3\MVCApp\obj\Debug\net9.0\MVCApp.sourc
 C:\Users\asus\OneDrive\Documents\casepoint3\MVCApp\bin\Debug\net9.0\Npgsql.dll
 C:\Users\asus\OneDrive\Documents\casepoint3\MVCApp\obj\Debug\net9.0\MVCApp.csproj.AssemblyReference.cache
 C:\Users\asus\OneDrive\Documents\casepoint3\MVCApp\obj\Debug\net9.0\MVCApp.csproj.Up2Date
+C:\Users\asus\OneDrive\Documents\casepoint3\MVCApp\bin\Debug\net9.0\FluentValidation.dll
+C:\Users\asus\OneDrive\Documents\casepoint3\MVCApp\bin\Debug\net9.0\FluentValidation.AspNetCore.dll
+C:\Users\asus\OneDrive\Documents\casepoint3\MVCApp\bin\Debug\net9.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\asus\OneDrive\Documents\casepoint3\MVCApp\obj\Debug\net9.0\MVCApp.MvcApplicationPartsAssemblyInfo.cs
